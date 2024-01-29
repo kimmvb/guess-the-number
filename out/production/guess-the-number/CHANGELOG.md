@@ -2,20 +2,20 @@
 
 ### Sprint learnings
 
-En esta sección enumera los aprendizajes del sprint.
+En este sprints se revisaron los conceptos generales sobre Java. Definiciones sobre clases, métodos, atributos, constructores, entre otros. 
 
 ### Added
 
-En esta sección especifica las funcionalides que agregaste.
+Se crearon las clases de GuessTheNumberGame, Player y HumanPlayer. Además se inicio la creción de las funcionalidad (número random, makeGuess) 
 
 ### Changed
 
-En esta sección detalla los cambios que hiciste a funcionalides ya existentes.
+N/A
 
 ### Fixed
 
-En esta sección describe los _bugs_ solucionados.
+N/A
 
 ### Removed
 
-En esta sección incluye las funcionalidades eliminadas.
+N/A
