@@ -6,7 +6,8 @@ Se siguieron reforzando y aprendiendo conceptos sobre Java. Constructores, clase
 
 ### Added
 
-Se añadieron varios métodos en la clase Player para guardar los intentos del jugador dentro de un array, además del número del round. Se creó la clase ComputerPlayer.
+Se añadieron varios métodos en la clase Player para guardar los intentos del jugador dentro de un array, además del
+número del round. Se creó la clase ComputerPlayer.
 
 ### Changed
 
@@ -24,11 +25,13 @@ N/A
 
 ### Sprint learnings
 
-En este sprints se revisaron los conceptos generales sobre Java. Definiciones sobre clases, métodos, atributos, constructores, entre otros. 
+En este sprints se revisaron los conceptos generales sobre Java. Definiciones sobre clases, métodos, atributos,
+constructores, entre otros.
 
 ### Added
 
-Se crearon las clases de GuessTheNumberGame, Player y HumanPlayer. Además se inicio la creción de las funcionalidad (número random, makeGuess) 
+Se crearon las clases de GuessTheNumberGame, Player y HumanPlayer. Además se inicio la creción de las funcionalidad (
+número random, makeGuess)
 
 ### Changed
 
