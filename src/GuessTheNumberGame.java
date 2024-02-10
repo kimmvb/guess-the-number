@@ -70,7 +70,7 @@ public class GuessTheNumberGame {
     //Método que chequea el intento del jugador
     public static void checkGuees(Player player, int targetNumber) {
 
-        System.out.println(targetNumber);
+        //System.out.println(targetNumber);
 
         player.makeGuess(targetNumber);
     }
